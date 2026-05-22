@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2B708-B7BB-C3BF-0AC7-2060E205AE8E}|PruebaTecnica.API\\PruebaTecnica.API.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B2B708-B7BB-C3BF-0AC7-2060E205AE8E}|PruebaTecnica.API\\PruebaTecnica.API.csproj|solutionrelative:pruebatecnica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2B708-B7BB-C3BF-0AC7-2060E205AE8E}|PruebaTecnica.API\\PruebaTecnica.API.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B2B708-B7BB-C3BF-0AC7-2060E205AE8E}|PruebaTecnica.API\\PruebaTecnica.API.csproj|solutionrelative:pruebatecnica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3BC1C-00BB-437D-B310-B9502F27B46F}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C3BC1C-00BB-437D-B310-B9502F27B46F}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE175CF4-E879-7273-03ED-1CC4C44683DD}|PruebaTecnica.Dominio\\PruebaTecnica.Dominio.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.dominio\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE175CF4-E879-7273-03ED-1CC4C44683DD}|PruebaTecnica.Dominio\\PruebaTecnica.Dominio.csproj|solutionrelative:pruebatecnica.dominio\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3BC1C-00BB-437D-B310-B9502F27B46F}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.infrastructure\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C3BC1C-00BB-437D-B310-B9502F27B46F}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E51C48-6E5F-37B7-EA01-0CF7F72A005E}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E51C48-6E5F-37B7-EA01-0CF7F72A005E}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|solutionrelative:pruebatecnica.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2B708-B7BB-C3BF-0AC7-2060E205AE8E}|PruebaTecnica.API\\PruebaTecnica.API.csproj|c:\\users\\sergi\\onedrive\\documents\\pruebatecnicacontrolesempresarialesv2\\pruebatecnica\\pruebatecnica.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B2B708-B7BB-C3BF-0AC7-2060E205AE8E}|PruebaTecnica.API\\PruebaTecnica.API.csproj|solutionrelative:pruebatecnica.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaTecnica.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T05:25:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Dominio\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Dominio\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Dominio\\Entities\\Employee.cs",
+              "RelativeToolTip": "PruebaTecnica.Dominio\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:43:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:41:35.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-22T04:41:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:38:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PruebaTecnica.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:30:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.API\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.API\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:03:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documents\\PruebaTecnicaControlesEmpresarialesV2\\PruebaTecnica\\PruebaTecnica.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "PruebaTecnica.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T04:27:54.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

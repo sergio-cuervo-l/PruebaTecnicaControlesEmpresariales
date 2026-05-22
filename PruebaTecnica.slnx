@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PruebaTecnica.API/PruebaTecnica.API.csproj" />
+  <Project Path="PruebaTecnica.Application/PruebaTecnica.Application.csproj" />
+  <Project Path="PruebaTecnica.Dominio/PruebaTecnica.Dominio.csproj" />
+  <Project Path="PruebaTecnica.Infrastructure/PruebaTecnica.Infrastructure.csproj" Id="c5c3bc1c-00bb-437d-b310-b9502f27b46f" />
+</Solution>

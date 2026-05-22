@@ -1,0 +1,11 @@
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\bin\Debug\net10.0\PruebaTecnica.Dominio.deps.json
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\bin\Debug\net10.0\PruebaTecnica.Dominio.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\bin\Debug\net10.0\PruebaTecnica.Dominio.pdb
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\PruebaTecnica.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\PruebaTecnica.Dominio.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\PruebaTecnica.Dominio.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\PruebaTecnica.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\PruebaTecnica.Dominio.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\refint\PruebaTecnica.Dominio.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\PruebaTecnica.Dominio.pdb
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Dominio\obj\Debug\net10.0\ref\PruebaTecnica.Dominio.dll

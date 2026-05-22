@@ -1,0 +1,17 @@
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Application.deps.json
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Application.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Application.pdb
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Dominio.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Infrastructure.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Dominio.pdb
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net10.0\PruebaTecnica.Infrastructure.pdb
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTe.64F57996.Up2Date
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\refint\PruebaTecnica.Application.dll
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\PruebaTecnica.Application.pdb
+C:\Users\sergi\OneDrive\Documents\PruebaTecnicaControlesEmpresarialesV2\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net10.0\ref\PruebaTecnica.Application.dll
